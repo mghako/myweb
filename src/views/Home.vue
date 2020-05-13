@@ -6,10 +6,10 @@
       <h2 class="my-10 font-serif">" Working as web developer "</h2>
       <h3 class="font-serif">it's me who love to develop web apps and like to play games.</h3>
       <div class="container w-6/10 mx-auto flex justify-center items-center mt-6">
-        <div class="w-1/6 bg-green-800">
+        <div class="w-2/6 bg-green-800">
           <a href="#" v-on:click="showAddress" class="block py-10 m-px-20 hover:bg-green-800 text-white">Where i live</a>
         </div>
-        <div class="w-1/6 bg-black">
+        <div class="w-2/6 bg-black">
           <a href="#" v-on:click="showMail" class="block py-10 m-px-20 hover:bg-gray-700 text-white">Mail</a>
         </div>
       </div>
