@@ -3,7 +3,8 @@
     <!-- vuejs app code block-->
     <div class="w-full p-6 shadow">
       <h2 class="text-2xl mb-6 ">
-        <a href="https://voucher.mghako.com" target="_blank" class="bg-gray-800 text-white py-6 px-2 rounded">Voucher App (ongoing status)</a>
+        <a href="https://voucher.mghako.com" target="_blank" class="block bg-gray-800 text-white py-6 px-2">Voucher App</a>
+        <small class="block bg-green-400 text-center">(ongoing status)</small>
       </h2>
       <img src="../../public/img/voucher_thumbnails.png" alt class="block w-8/10 mx-auto" />
       <p class="mb-4 mt-2">Voucher printing အတွက် vuejs နဲ့ရေးထားသော light weight app ဖြစ်ပါတယ်။</p>
