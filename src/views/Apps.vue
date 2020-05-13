@@ -10,7 +10,7 @@
       <a
         href="https://github.com/mghako/voucher_app"
         target="_blank"
-        class="inline-block bg-gray-700 px-4 py-1 text-white rounded mr-4"
+        class="inline-block bg-gray-700 px-4 py-1 text-white rounded mr-4 mb-4"
       >
         <i class="fas fa-code"></i> Source
       </a>
