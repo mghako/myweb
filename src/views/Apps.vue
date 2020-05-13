@@ -1,7 +1,7 @@
 <template>
   <div class="container w-10/12 mx-auto flex justify-between mt-12">
     <!-- vuejs app code block-->
-    <div class="w-3/6 p-6 shadow">
+    <div class="w-full p-6 shadow">
       <h2 class="text-2xl mb-6 ">
         <a href="https://voucher.mghako.com" target="_blank" class="bg-gray-800 text-white py-6 px-2 rounded">Voucher App (ongoing status)</a>
       </h2>
