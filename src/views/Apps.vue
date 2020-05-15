@@ -28,7 +28,7 @@
       <img src="../../public/img/notiboard_thumbnails.png" alt class="block w-8/10 mx-auto md:h-64" />
       <p class="mb-4 mt-2">ကိုယ်ေရးထားတဲ့ App ကို notiboard မွာ ပျန္လည္မ်ွေၽေပးတဲ့ App </p>
       <a
-        href="https://github.com/mghako/voucher_app"
+        href="https://github.com/mghako/m_web_board"
         target="_blank"
         class="inline-block bg-gray-700 px-4 py-1 text-white rounded mr-4 mb-4"
       >
@@ -38,6 +38,7 @@
         <i class="fas fa-eye"></i> Live Preview
       </a>
     </div>
+    
     
   </div>
 </template>
