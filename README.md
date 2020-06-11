@@ -1,4 +1,4 @@
-# Voucher Printing App With Vuejs
+# Voucher Printing App With Vuejs (!!full of bugs!!)
 ## ဆီဆိုင် voucher print အတွက်ပါပဲ vuejs နဲ့ ရေးထားတာပါ... အခု repo မှာ ရေးထားတာကတော့ serverless ပါ
 ## Project setup
 ```
